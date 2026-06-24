@@ -1,0 +1,48 @@
+# 📱 Mobile Sales Dashboard
+
+A Power BI dashboard that visualizes **mobile phone sales performance across India**.  
+It provides interactive insights into total sales, transactions, average price, customer ratings, payment methods, and city-level performance, helping businesses track trends and make data-driven decisions.
+
+---
+
+## 📊 Features
+
+- **Key Metrics**
+  - Total Sales: 769M+
+  - Total Quantity: 19K+
+  - Transactions: 4K+
+  - Average Price: 40.11K
+
+- **Geographic Insights**
+  - Sales distribution across Indian cities (map visualization)
+
+- **Customer Ratings**
+  - Average, Good, Very Good breakdown
+
+- **Sales Trends**
+  - Monthly quantity sold
+  - Year-over-year comparisons
+  - Month-to-date (MTD) growth tracking
+
+- **Product Analysis**
+  - Sales by mobile model (iPhone, Samsung Galaxy, OnePlus, Vivo, etc.)
+  - Brand-level performance
+
+- **Payment Methods**
+  - UPI, Debit Card, Credit Card, Cash distribution
+
+---
+
+## 📂 Project Structure
+
+- **Dashboard.pbix** → Power BI dashboard file  
+- **Data/** → Source datasets (CSV/Excel)  
+- **Docs/** → Supporting documentation and screenshots  
+
+---
+
+## 🚀 Getting Started
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/your-username/MOBILE_SALES_DASHBOARD.git
